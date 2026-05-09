@@ -5,3 +5,4 @@ Good client ig
 
 - Cha0s: Unc did 50% of the cracking
 - BynBang: 50% cracking
+Run both jar if you want it to work
