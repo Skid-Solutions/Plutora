@@ -1,5 +1,5 @@
 # Plutora
-[Good client ig
+[Plutora Client
 ](https://discord.gg/WeGvcyvs)
 - Cha0s: Unc did 50% of the cracking
 - BynBang: 50% cracking
